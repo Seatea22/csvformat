@@ -1,0 +1,12 @@
+{
+	"encloser": "|^e|"
+	"format": "|^e|name|^e| |^e|last|^e|: <|^e|email|^e|>\n"
+	"fields": {
+		"name": "Preferred"
+		"last": "Last"
+		"email": "Email"
+	}
+	"output_method": "print"
+	"input_dir_path": "C:/Users/caleb/Desktop/csvformat/input"
+	"file_names": ["FloorRoster"]
+}
